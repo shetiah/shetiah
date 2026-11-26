@@ -15,4 +15,4 @@ Python · FastAPI · Node.js · TypeScript · Express · PostgreSQL · MongoDB �
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/abdelrahman-shetiah)
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-shetiah-699342278/)
